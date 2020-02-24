@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\xin75\desktop\db实验五\project1\project1\源.cpp(182): warning C4101: “price”: 未引用的局部变量
+c:\users\xin75\desktop\db实验五\project1\project1\源.cpp(179): warning C4101: “book_name”: 未引用的局部变量
+c:\users\xin75\desktop\db实验五\project1\project1\源.cpp(180): warning C4101: “writer”: 未引用的局部变量
+c:\users\xin75\desktop\db实验五\project1\project1\源.cpp(181): warning C4101: “press”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\xin75\Desktop\DB实验五\Project1\Debug\Project1.exe
